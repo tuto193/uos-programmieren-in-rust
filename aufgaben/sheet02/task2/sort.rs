@@ -1,3 +1,9 @@
+fn sort(array: &mut [u64]) -> None {
+    let mut start_i: u64, mut curr_i: u64, mut low_i: u64, mut tmp: u64;
+
+}
+
+
 fn main() {
     let mut arr = [61, 21, 27, 79, 57, 60, 46, 42, 27, 92, 66, 26];
 
